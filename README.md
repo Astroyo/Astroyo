@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Astroyo
+- 👀 I’m interested in coding.
+- 🐍 I can confidently call myself an expert in python
+- 🌱 I’m currently learning Javascript
+- 📫 You can contact me by adding me on discord, my username is "astroyo"
