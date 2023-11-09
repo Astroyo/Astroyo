@@ -7,7 +7,7 @@ Web-Developer and Python Coder
 I am an intermediate Python Coder and an intermediate web-developer. I have coded many bots in Python (Discord.py, Nextcord, Pycord, Disnake)
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio at [Astroyo](http://bank)
+* 🖥️  See my portfolio at [Astroyo](https://astroyo.github.io/astroyo/)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on Discord bot projects or websites.
 * ⚡  Shush!!! Im a cat, just dont tell anyone
